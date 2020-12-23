@@ -1,0 +1,13 @@
+#posts {
+  margin-top: 50px;
+}
+p {
+  text-align: justify;
+}
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}

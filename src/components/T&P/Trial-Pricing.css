@@ -1,0 +1,57 @@
+* {
+  font-family: Roboto;
+}
+
+#main {
+  padding: 15px 100px;
+}
+#badge {
+  width: 30px;
+  height: 30px;
+  padding: 5px;
+  color: white;
+  border-radius: 50%;
+  float: right;
+  margin-top: -25px;
+  margin-right: -35px;
+  background-color: chartreuse;
+}
+
+#pricing-plan {
+  width: 260px;
+}
+
+#selected {
+  border: 1px solid #007bff;
+  background-color: #007bff09;
+}
+
+#bubble {
+  width: 10px;
+  height: 10px;
+  border-radius: 100%;
+  padding: 20px;
+}
+
+#modules {
+  border-top: 1px solid #6c757d41;
+  border-bottom: 1px dashed #6c757d41;
+}
+
+#title {
+  margin-top: -19px;
+  display: block;
+  background-color: white;
+  width: 100px;
+  text-align: center;
+}
+
+#rangeMinMax {
+  position: relative;
+  top: 20px;
+  z-index: -1;
+}
+
+.text-grey {
+  color: #6c757da8;
+}

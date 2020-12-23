@@ -1,0 +1,39 @@
+.tab {
+  color: grey;
+  margin-bottom: 10px;
+}
+
+.tab span {
+  display: none;
+}
+
+.tab div {
+  padding: 20px 5px 5px 60px;
+}
+.tab:hover {
+  color: white;
+  text-decoration: none;
+}
+
+.active-tab {
+  border-left: 3px solid gold;
+  color: white;
+}
+
+.active-tab span {
+  display: block;
+}
+
+#quote {
+  border: 1px solid grey;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+
+#quote span {
+  margin-left: -25px;
+}
+
+#quote i {
+  font-size: 50px;
+}

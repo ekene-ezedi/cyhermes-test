@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Governance Portal",
+    "icon": "fas fa-landmark text-grey"
+  },
+  {
+    "id": 2,
+    "name": "Corporate Universe",
+    "icon": "fas fa-building text-grey"
+  },
+  {
+    "id": 3,
+    "name": "Contact Domain",
+    "icon": "fas fa-address-card text-grey"
+  },
+  {
+    "id": 4,
+    "name": "Inverstor Relations",
+    "icon": "fas fa-chart-pie text-grey"
+  },
+  {
+    "id": 5,
+    "name": "Dispute Portfolio",
+    "icon": "fas fa-briefcase text-grey"
+  },
+  {
+    "id": 6,
+    "name": "Minute Book",
+    "icon": "fas fa-chalkboard text-grey"
+  },
+  {
+    "id": 7,
+    "name": "Reporting Tool",
+    "icon": "fas fa-chart-bar text-grey"
+  },
+  {
+    "id": 8,
+    "name": "Attendance Register",
+    "icon": "fas fa-list-alt text-grey"
+  }
+]
